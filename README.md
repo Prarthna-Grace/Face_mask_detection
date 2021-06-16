@@ -1,4 +1,4 @@
-# Face_mask_detection Using phone as camera
+# Face_mask_detection Using phone camera
 Sparks foundation task -2
 
 download the code 
