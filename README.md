@@ -19,7 +19,7 @@ copy the ip and paste in the url
 .
 .
 
-url = 'your phone cam ip'
+url = 'http://your phone cam ip//video'
 
 
 run the code .
